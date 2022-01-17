@@ -1,0 +1,19 @@
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\bin\Debug\Spojeny projekt.exe.config
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\bin\Debug\Spojeny projekt.exe
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\bin\Debug\Spojeny projekt.pdb
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.csprojAssemblyReference.cache
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny_projekt.Form1.resources
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny_projekt.Properties.Resources.resources
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.csproj.GenerateResource.cache
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.csproj.CoreCompileInputs.cache
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.exe
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Muj prvni ukol\Spojeny projekt\Spojeny projekt\bin\Debug\Spojeny projekt.exe.config
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Muj prvni ukol\Spojeny projekt\Spojeny projekt\bin\Debug\Spojeny projekt.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Muj prvni ukol\Spojeny projekt\Spojeny projekt\bin\Debug\Spojeny projekt.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Muj prvni ukol\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny_projekt.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Muj prvni ukol\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny_projekt.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Muj prvni ukol\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Muj prvni ukol\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Muj prvni ukol\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Muj prvni ukol\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.pdb
