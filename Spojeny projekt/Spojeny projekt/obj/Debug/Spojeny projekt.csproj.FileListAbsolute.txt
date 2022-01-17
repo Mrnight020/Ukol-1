@@ -1,0 +1,10 @@
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\bin\Debug\Spojeny projekt.exe.config
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\bin\Debug\Spojeny projekt.exe
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\bin\Debug\Spojeny projekt.pdb
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.csprojAssemblyReference.cache
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny_projekt.Form1.resources
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny_projekt.Properties.Resources.resources
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.csproj.GenerateResource.cache
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.csproj.CoreCompileInputs.cache
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.exe
+G:\programování\Start C Sharp --------------------------------------------\Spojeny projekt\Spojeny projekt\obj\Debug\Spojeny projekt.pdb
